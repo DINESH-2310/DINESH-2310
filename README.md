@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/NBb2bWHMyjQAAAAi/waving-hand-people.gif" alt="">, I'm Dinesh.k</h1>
+<h1 align="center">Hi,👋 I'm Dinesh.k</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-2310&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-2310" /> </p>
