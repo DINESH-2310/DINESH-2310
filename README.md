@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **hungry to improving my Skills**
 
-<img  align="right" src="https://qwesys.com/wp-content/uploads/2020/02/web-development.gif" alt="Girl in a jacket" width="500" height="600">
+<img  align="right" src="https://qwesys.com/wp-content/uploads/2020/02/web-development.gif" alt="Girl in a jacket" width="400" height="500">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dinesh_osthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinesh_osthi" height="30" width="40" /></a>
